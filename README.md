@@ -1,5 +1,5 @@
 ### Hola 👋, My nombre es Oscar
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator]![dino](https://user-images.githubusercontent.com/46871300/98968928-b69fc700-24e4-11eb-9d5d-12f0814c379a.gif)
 
 Habilidades: ANGULAR / PHP / REACT / JS / HTML / CSS
 
