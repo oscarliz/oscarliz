@@ -1,12 +1,8 @@
 ### Hola 👋
 
-
-![dino](https://user-images.githubusercontent.com/46871300/98968928-b69fc700-24e4-11eb-9d5d-12f0814c379a.gif)
-
-
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
+ <h2 align="center">Desarrollador web full stack</h2>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -31,6 +27,11 @@
     </a>
   </p>
 </p>
+
+
+![dino](https://user-images.githubusercontent.com/46871300/98968928-b69fc700-24e4-11eb-9d5d-12f0814c379a.gif)
+
+
 
 
 
